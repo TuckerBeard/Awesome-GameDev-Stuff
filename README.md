@@ -1,4 +1,4 @@
-# thingOne
+# README
 
 /*
 1. Monaco editor
