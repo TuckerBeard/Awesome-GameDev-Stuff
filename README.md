@@ -46,32 +46,4 @@ Modular game engine
 Pros: Highly Customizable and open source
 Cons: Less well known & less documented
 Link: https://www.team-nutshell.dev/nutshellengine/
-
-Game Development career pathways:
-1. Game Programming
-Role & Responsibilities: Programming gameplay mechanics & various features in games 
-Specializations: AI, Physics, Gameplay
-2. Game Art
-Role & Responsibilities: Creating sprites, animations, and other art to be used in games
-Specializations: Animation, Sprites, Effects, Concept art
-3. Game Audio
-Role & Responsibilities: Coming up with and creating sound effects, music, and voice lines to be used in games
-Specializations: Environmental music, SFX, Voice lines/Voice acting
-4. Game Production
-Role & Responsibilities: Managing the creation & distribution of games
-Specializations: Optimization, Builds, Distribution
-5. Game Design
-Role & Responsibilities: Creating concepts for game mechanics, levels, and stories
-Specializations: Narrative, Mechanics, Level design
-Game Programming Major disciplines:
-1. Engine programming
-Job titles: 
-2. Physics programming
-Job titles: 
-3. UI programming
-Job titles: 
-4. Graphics programming
-Job titles: 
-5. Gameplay programming
-Job titles: 
 */
